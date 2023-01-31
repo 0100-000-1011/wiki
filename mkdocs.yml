@@ -1,0 +1,23 @@
+# Project Information
+site_name: My Wiki
+site_description: My Wiki!
+site_author: EasonLiang
+site_url: https://0100-000-1011.github.io/wiki
+# strict: false
+
+# Repository
+repo_name: '0100-000-1011/wiki'
+repo_url: 'https://github.com/0100-000-1011/wiki'
+edit_uri: 'https://0100-000-1011.github.io/wiki/edit-landing/?ref='
+
+# Copyright
+# copyright: 'Copyright &copy; 2016 - 2023 OI Wiki Team'
+
+# Theme
+theme:
+  name: 'material'
+
+# Contents
+nav:
+  - Home: index.md
+  - Test Page: test-page/index.md
