@@ -1,3 +1,3 @@
 # Test Page
 
-This is te test page of the wiki.
+This is the test page of the wiki.
